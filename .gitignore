@@ -121,6 +121,7 @@ $
 ### ofice temp files
 
 ~$*.docx
+~*.tmp
 
 
 ### Examples dist
