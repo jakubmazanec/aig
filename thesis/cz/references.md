@@ -46,7 +46,7 @@ Philosophy Compass, 8(12), 1159-1173.
 
 \[8\]
 
-Mari, L., Maul, A., Irribarra, D. T., & Wilson, M. (2013, September).
+Mari, L., Maul, A., Irribarra, D. T., & Wilson, M. (2013).
 Quantification is neither necessary nor sufficient for measurement. In
 Journal of physics: conference series (Vol. 459, No. 1, p. 012007). IOP
 Publishing.
@@ -241,17 +241,120 @@ of Measurement.
 
 \[44\]
 
+Open Science Collaboration. (2015). Estimating the reproducibility of
+psychological science. Science, 349(6251), aac4716.
+
 \[45\]
+
+Trendler, G. (2009). Measurement theory, psychology and the revolution
+that cannot happen. Theory & Psychology, 19(5), 579-599.
 
 \[46\]
 
+Markus, K. A., & Borsboom, D. (2012). The cat came back: Evaluating
+arguments against psychological measurement. Theory & Psychology, 22(4),
+452-466.
+
 \[47\]
+
+Saint-Mont, U. (2012). What measurement is all about. Theory &
+Psychology, 22(4), 467-485.
 
 \[48\]
 
+Cliff, N. (1992). Abstract measurement theory and the revolution that
+never happened. Psychological Science, 186-190.
+
 \[49\]
 
+Borsboom, D. (2006). The attack of the psychometricians. Psychometrika,
+71(3), 425-440.
+
 \[50\]
+
+Michell, J. (2008). Is psychometrics pathological science?. Measurement,
+6(1-2), 7-24.
+
+\[51\]
+
+Schönemann, P. H. (1994). Measurement: The reasonable ineffectiveness of
+mathematics in the social sciences. Trends and perspectives in empirical
+social research, 149-160.
+
+\[52\]
+
+Wright, B. D. (1997). A history of social science measurement.
+Educational measurement: issues and practice, 16(4), 33-45.
+
+\[53\]
+
+Coltman, T., Devinney, T. M., Midgley, D. F., & Venaik, S. (2008).
+Formative versus reflective measurement models: Two applications of
+formative measurement. Journal of Business Research, 61(12), 1250-1262.
+
+\[54\]
+
+(2014). The Rasch paradox, conjoint measurement, and psychometrics -
+Response to Humphry and Sijtsma.pdf
+
+\[55\]
+
+(1991). The representational theory of measurement - An assessment.pdf
+
+\[56\]
+
+http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+
+\[57\]
+
+(2006). A probabilistic theory of measurement.pdf
+
+\[58\]
+
+(2008). Fuzzy measurement theory.pdf
+
+\[59\]
+
+(2010). Outline of a general model of measurement.pdf
+
+\[60\]
+
+(2015). A property type invariant model of measurement applied to
+nominal evaluations.pdf
+
+\[61\]
+
+Petri, D., Mari, L., & Carbone, P. (2015). Fundamentals of hard and soft
+measurement: a pragmatic and structural perspective. Modern
+measurements: fundamentals and applications.
+
+\[62\]
+
+\[63\]
+
+\[64\]
+
+\[65\]
+
+\[66\]
+
+\[67\]
+
+\[68\]
+
+\[69\]
+
+\[70\]
+
+\[71\]
+
+\[72\]
+
+\[73\]
+
+\[74\]
+
+\[75\]
 
 \[Roztříděné\]
 --------------
