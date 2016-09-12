@@ -1,0 +1,7 @@
+[core]
+	hooksPath = hooks
+[merge]
+	ff = false
+[merge "ours"]
+	driver = true
+	name = Keep ours merge

@@ -330,86 +330,445 @@ measurements: fundamentals and applications.
 
 \[62\]
 
+Garbacz, P., & Kutz, O. (2014). Formal Ontology in Information Systems:
+Proceedings of the Eighth International Conference (FOIS 2014) (Vol.
+267). IOS Press.
+
 \[63\]
+
+Mari, L., & Giordani, A. (2012). Quantity and quantity value.
+Metrologia, 49(6), 756.
 
 \[64\]
 
+61-3
+
+J. P. Bentley, Principles of measurement systems, Pearson, 2005.
+
 \[65\]
+
+61-47
+
+A. S. Morris, Measurement and instrumentation principles, Butterworth,
+2001.
 
 \[66\]
 
+(2007). Measurability.pdf
+
 \[67\]
+
+(2014). An introduction to the Rasch measurement approach for
+metrologists.pdf
 
 \[68\]
 
+(2009). Measurement in soft systems - Epistemological framework and a
+case study.pdf
+
 \[69\]
+
+A. Ferrero, S. Salicone, “Fully comprehensive mathematical approach to
+the expression of
+
+uncertainty in measurement,” IEEE Transactions on Instrumentation and
+Measurement,
+
+vol. 55, n. 3, pp. 706–712, 2006.
 
 \[70\]
 
+G. Mauris, L. Berrah, L. Foulloy, A. Haurat, “Fuzzy handling of
+measurement errors in
+
+instrumentation,” IEEE Transactions on Instrumentation and Measurement,
+vol. 49 , n.
+
+1, pp. 89–93, Jan. 2000.
+
 \[71\]
+
+G. Mauris, V. Lasserre, L. Foulloy, “Fuzzy modeling of measurement data
+acquired from
+
+physical sensors,” IEEE Transactions on Instrumentation and Measurement,
+vol. 49 , n.
+
+6 pp. 1201–1205, Dec. 2000.
 
 \[72\]
 
+A. Ferrero, S. Salicone, “The randomfuzzy
+
+variables: a new approach to the expression
+
+of uncertainty in measurement,” IEEE Transactions on Instrumentation and
+Measurement,
+
+vol. 53, n. 5, pp. 1370–1377, Oct. 2004.
+
 \[73\]
+
+ISO 14253–2:2013: Geometrical Product Specifications (GPS)–Inspection by
+Measurement
+
+of Workpieces and Measuring Equipment–Part 2: Guide to the Estimation of
+Uncertainty
+
+in GPS Measurement, in Calibration of Measuring Equipment and in Product
+
+Verification, ISO, Geneva 2013.
 
 \[74\]
 
+EN ISO 9000:2005, “Quality management systems. Fundamentals and
+vocabulary,” ISO
+
+Geneva, 2005.
+
 \[75\]
 
-\[Roztříděné\]
---------------
+(2003). Widely, strongly and weakly defined measurement.pdf
+
+\[76\]
+
+A.W. Heim, “Intelligence: Its assessment,? in The Oxford Companion to
+the Mind, R. I.
+
+Gregory, Ed. Oxford, U.K.: Oxford Univ. Press, 1987, pp. 379–381.
+
+\[77\]
+
+H. Kan, Metrics and Models in Software Quality Engineering. Reading, MA:
+Addison–
+
+Wesley, 2002.
+
+\[78\]
+
+F. Roberts, Measurement theory: with applications to decision making,
+utility, and the
+
+social sciences, Cambridge University Press, 1984.
+
+\[79\]
+
+K. Popper, The logic of scientific discovery, London, Hutchinson Co.
+Publisher Ltd.
+
+1.  
+
+\[80\]
+
+JGCM 106:2012, Evaluation of measurement data – The role of measurement
+uncertainty
+
+in conformity assessment, Joint Committee for Guides in Metrology, 2012,
+
+http://www.bipm.org/utils/common/documents/jcgm/JCGM 106 2012 E.pdf
+
+\[81\]
+
+Evaluation of measurement data – The role of measurement uncertainty in
+conformity
+
+assessment, International Organization for Legal Metrology, 2012,
+
+http://www.oiml.org/en/files/pdf g/g001106e12.
+
+pdf.
+
+\[82\]
+
+ISO 14253–1:2013 Geometrical product specifications (GPS) – Inspection
+by measurement
+
+of workpieces and measuring equipment – Part 1: Decision rules for
+proving
+
+conformity or nonconformity with specifications, ISO, Geneva, 2013.
+
+\[83\]
+
+EN ISO 9000:2005, “Quality management systems. Fundamentals and
+vocabulary,” ISO
+
+Geneva, 2005.
+
+\[84\]
+
+P. W. Bridgman, The logic of modern physics, MacMillan, 1927.
+
+\[85\]
+
+JCGM 100:2008, Evaluation of measurement data – Guide to the expression
+of uncertainty
+
+in measurement (GUM, originally published in 1993), Joint Committee for
+Guides in
+
+Metrology, 2008, http://www.bipm.org/en/publications/guides/gum.html.
+
+\[86\]
+
+https://www.ligo.caltech.edu/page/facts
+
+\[87\]
+
+(2013). Using the concept of a measurement system to characterize
+measurement.pdf
+
+\[88\]
+
+R. J. Sternberg, Intelligence, in: The Oxford companion to the mind, R.
+L. Gregory (ed.),
+
+Oxford University Press, 1987.
+
+\[89\]
+
+BIPM, Evolving needs for metrology in trade, industry and society and
+the role of the
+
+BIPM, International Bureau of Weights and Measures, 2007.
+
+\[90\]
+
+(2012). Psychological measurement between physics and statistics.pdf
+
+\[91\]
+
+\[3\] A. Ferguson, C.S. Myers, R.J. Bartlett, Quantitative estimates
+
+of sensory events, Report – British Association for the
+
+Advancement of Science, 1938, No. 108.
+
+\[92\]
+
+\[4\] A. Ferguson, C.S. Myers, R.J. Bartlett, Quantitative estimates
+
+of sensory events, Final Report – British Association
+
+for the Advancement of Science, 1940, No. 2, pp. 331–349.
+
+\[93\]
+
+\[9\] F. Nowell Jones, History of psychophysics and judgement,
+
+in: E.C. Carterette, M.P. Friedman (Eds.), Handbook of
+
+Perception, vol. 2, Academic Press, New York, 1974.
+
+\[94\]
+
+\[11\] J.C. Baird, E. Noma, Fundamentals of Scaling and Psychophysics,
+
+Wiley, New York, 1978.
+
+\[95\]
+
+Miyawaki, Y., Uchida, H., Yamashita, O., Sato, M. A., Morito, Y.,
+Tanabe, H. C., ... & Kamitani, Y. (2008). Visual image reconstruction
+from human brain activity using a combination of multiscale local image
+decoders. Neuron, 60(5), 915-929.
+
+\[96\]
+
+(2013). On the ontology of psychological attributes.pdf
+
+\[97\]
+
+Fox, Jean-Paul (2010). Bayesian Item Response Modeling - Theory and
+Applications.pdf
+
+\[98\]
+
+Oppenheim, P., & Putnam, H. (1958). Unity of science as a working
+hypothesis.
+
+Minnesota Studies in the Philosophy of Science, 2, 3-36.
+
+\[99\]
+
+Nagel, E. (1961). The structure of science: Problems in the logic of
+scientific explanation.
+
+London: Routledge & Kegan Paul.
+
+\[100\]
+
+Putnam, H. (1967). The nature of mental states. Reprinted in N. Block
+(Ed.,
+
+1980), Readings in philosophy of psychology (pp. 223-236). London:
+
+Methuen
+
+\[101\]
+
+Fodor, J. A. (1974). Special sciences (Or the disunity of science as a
+working
+
+hypothesis). Synthese, 28, 97-115.
+
+\[102\]
+
+Descartes, R. (1641). Reprinted in: Descartes: Meditations on first
+philosophy: With
+
+selections from the objections and replies. (1996). Cambridge University
+Press.
+
+\[103\]
+
+Kim, J. (1993). Supervenience and mind: Selected philosophical essays.
+Cambridge, UK: Cambridge University Press.
+
+\[104\]
+
+Searle, J. (1992). The rediscovery of the mind. Cambridge, MA: MIT
+Press.
+
+\[105\]
+
+Molenaar, P. C. M., Huizenga, H. M., and Nesselroade, J. R. (2003). The
+relationship
+
+between the structure of inter-individual and intra-individual
+variability:
+
+a theoretical and empirical vindication of developmental systems
+
+theory. In U. M. Staudinger and U. Lindenberger (eds.), Understanding
+
+human development (pp. 339–60). Dordrecht: Kluwer.
+
+\[106\]
+
+Kleinberg, Samantha - Causality, Probability, and Time.pdf
+
+\[107\]
+
+Davidson, D. (1980). Mental events. (Original work published 1970.) In
+D. Davidson (Ed.), Essays on actions and events (pp. 207–225). Oxford,
+UK: Clarendon Press.
+
+\[108\]
+
+Geerlings, H. (2012). *Psychometric methods for automated test design*.
+Universiteit Twente.
+
+\[109\]
+
+Tabor, D. (1954). Mohs's hardness scale-a physical interpretation.
+Proceedings of the Physical Society. Section B, 67(3), 249.
+
+\[110\]
+
+Brynjolfsson, E., & McAfee, A. (2014). The second machine age: Work,
+progress, and prosperity in a time of brilliant technologies. WW Norton
+& Company.
+
+\[111\]
+
+Rust, J., Golombok, S., Kosinski, M., & Stillwell, D. (2014). Modern
+psychometrics: The science of psychological assessment. Routledge.
+
+\[112\]
+
+(2016). Why build a virtual brain - Large-scale neural simulations as
+jump start for cognitive computing.pdf
+
+\[113\]
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+\[114\]
+
+(2008). Formative versus reflective measurement models - Two
+applications of formative measurement.pdf
+
+\[115\]
+
+(1979). The Rasch Model as Additive Conjoint Measurement.pdf
+
+\[200\]
 
 Arendasy, M. E. & Sommer, M. (2012). Using automatic item generation to
 meet the increasing item demands of high-stakes educational and
 occupational assessment. *Learning and Individual Differences, 22*(1),
 112–117.
 
+\[201\]
+
 Azevedo, C. L., Bolfarine, H., & Andrade, D. F. (2011). Bayesian
 inference for a skew-normal IRT model under the centred
 parameterization. *Computational Statistics & Data Analysis, 55*(1),
 353–365.
 
+\[202\]
+
 Bolter, J. D. & Grusin, R. (2005). Imediace, hypermediace, remediace.
 *Teorie vědy, 27*(2), 5–40.
 
+\[203\]
+
 De Boeck, P. (2008). Random item IRT models. *Psychometrika, 73*(4),
 533–559.
+
+\[204\]
 
 Dillon, A., Richardson, J., & McKnight, C. (1990). The effects of
 display size and text splitting on reading lengthy text from screen.
 Behaviour & Information Technology, 9(3), 215–227.
 
+\[205\]
+
 Embretson, S. & Yang, X. (2007). Automatic Item Generation and Cognitive
 Psychology. In Rao, C. R. & Sinharay, S. (Eds.), *Handbook of
 Statistics, 26* (747–768).
 
+\[206\]
+
 Fischer, G. H. (1973). The linear logistic test model as an instrument
 in educational research. *Acta psychologica, 37*(6), 359–374.
 
-Geerlings, H. (2012). *Psychometric methods for automated test design*.
-Universiteit Twente.
+\[207\]
 
 Geerlings, H., Glas, C. A., & van der Linden, W. J. (2011). Modeling
 rule-based item generation. *Psychometrika, 76*(2), 337–359.
+
+\[208\]
 
 Geerlings, H., van der Linden, W. J., & Glas, C. A. (2013). Optimal test
 design with rule-based item generation. Applied Psychological
 Measurement, 37(2), 140–161.
 
+\[209\]
+
 Gierl, M. J., Lai, H. & Breithaupt, K. (2012). *Methods for Creating and
 Evaluating the Item Model Structure Used In Automatic Item Generation*.
 Alberta: Centre for Research in Applied Measurement and Evaluation.
+
+\[210\]
 
 Glas, C. A., van der Linden, W. J. & Geerlings, H. (2010). Estimation of
 the parameters in an item-cloning model for adaptive testing. In
 *Elements of adaptive testing* (289–314). New York: Springer.
 
+\[211\]
+
 Haladyna, T. M. (2013). *Automatic Item Generation: Theory and
 Practice*. New York: Taylor & Francis.
+
+\[212\]
 
 Hornke, L. F., & Habon, M. W. (1986). Rule-based item bank construction
 and evaluation within the linear logistic framework. *Applied
 Psychological Measurement, 10*, 369–380.
+
+\[213\]
 
 Lai, H., Alves, C., & Gierl, M. J. (2009). Using automatic item
 generation to address item demands for CAT. In D. J. Weiss (Ed.),
@@ -417,29 +776,43 @@ generation to address item demands for CAT. In D. J. Weiss (Ed.),
 Testing*. Získáno 23. května 2013 z:
 www.psych.umn.edu/psylabs/CATCentral/
 
+\[214\]
+
 Marcotte, E. (2010). Responsive Web Design. *A List Apart Magazine*
 (306). Dostupné z:
 <http://www.alistapart.com/articles/responsive-web-design/>
 
+\[215\]
+
 Naglieri, J. A., Drasgow, F., Schmit, M., Handler, L., Prifitera, A.,
 Margolis, A., & Velasquez, R. (2004). Psychological testing on the
 Internet. *American Psychologist, 59*(3), 150–162.
+
+\[216\]
 
 Sinharay, S., Johnson, M. S., & Williamson, D. M. (2003). Calibrating
 item families and summarizing the results using family expected response
 functions. *Journal of Educational and Behavioral Statistics, 28*(4),
 295–313.
 
+\[217\]
+
 Širůček, J. (2010). Problémy psychologického testování pomocí počítače a
 v prostředí internetu. *Testfórum, 1*(1), 23–26.
+
+\[218\]
 
 Taveira, A. D., & Choi, S. D. (2009). Review study of computer input
 devices and older users. *Intl. Journal of Human–Computer Interaction,
 25*(5), 455–474.
 
+\[219\]
+
 Van der Linden, W. J., Entink, R. H. K., & Fox, J. P. (2010). IRT
 parameter estimation with response times as collateral information.
 *Applied Psychological Measurement, 34*(5), 327–347.
+
+\[220\]
 
 Wainer, H. (2002). On the automatic generation of test items: Some
 whens, whys and hows. In S. H. Irvine, & P. C. Kyllonen (Eds.), *Item
