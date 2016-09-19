@@ -1,16 +1,11 @@
 Zdroje
 ======
 
-\[Neroztříděné\]
-----------------
+~~\[1\]~~
 
-\[TODO: roztřídit\]
-
-\[1\]
-
-Tal, Eran, "Measurement in Science", The Stanford Encyclopedia of
+~~Tal, Eran, "Measurement in Science", The Stanford Encyclopedia of
 Philosophy (Summer 2015 Edition), Edward N. Zalta (ed.),
-&lt;http://plato.stanford.edu/archives/sum2015/entries/measurement-science/&gt;
+&lt;http://plato.stanford.edu/archives/sum2015/entries/measurement-science/&gt;~~
 
 \[2\] Díez, 1997a
 
@@ -692,6 +687,158 @@ applications of formative measurement.pdf
 \[115\]
 
 (1979). The Rasch Model as Additive Conjoint Measurement.pdf
+
+\[116\]
+
+(1967). Test theory.pdf
+
+\[117\]
+
+(2000). Normal Science, Pathological Science and Psychometrics.pdf
+
+\[118\]
+
+(2004). Why Psychometrics is not Pathological - A Comment on Michell.pdf
+
+\[119\]
+
+Bond, T.G., & Fox, C.M. (2001). Applying the Rasch model: Fundamental
+measurement
+
+in the human sciences. Hillsdale, NJ: Erlbaum.
+
+\[120\]
+
+(2008). The Rasch model from the perspective of the representational
+theory of measurement.pdf
+
+\[121\]
+
+Embretson, S.E., & Reise, S.P. (2000). Item response theory for
+psychologists.
+
+Hillsdale, NJ: Erlbaum.
+
+\[122\]
+
+(2013). Additive conjoint measurement and the resistance toward
+falsifiability in psychology.pdf
+
+\[123\]
+
+(2004). Item Response Models, Pathological Science and the Shape of
+Error - Reply to Borsboom and Mellenbergh.pdf
+
+\[124\]
+
+(2008). The Rasch Model and Conjoint Measurement Theory from the
+Perspective of Psychometrics.pdf
+
+\[125\]
+
+(2008). Conjoint measurement and the Rasch Paradox a response to
+Kyngdon.pdf
+
+\[126\]
+
+(2008). Conjoint Measurement, Error and the Rasch Model A Reply to
+Michell, and Borsboom and Zand Scholten.pdf
+
+\[127\]
+
+(2011). Stochastic and historical resonances of the unit in physics and
+psychometrics.pdf
+
+\[128\]
+
+(2001). The Rasch Model, Additive Conjoint Measurement, and New Models
+of Probabilistic Measurement Theory.pdf
+
+\[129\]
+
+(2011). Plausible measurement analogies to some psychometric models of
+test performance.pdf
+
+\[130\]
+
+(2014). Evaluating the Equal-Interval Hypothesis with Test Score
+Scales.pdf
+
+\[131\]
+
+(2016). Detecting Violations of Unidimensionality by Order-Restricted
+Inference Methods.pdf
+
+\[132\]
+
+(2012). Can fast and slow intelligence be differentiated.pdf
+
+\[133\]
+
+(2016). Attempting to differentiate fast and slow intelligence - Using
+generalized item response trees to examine the role of speed on
+intelligence tests.pdf
+
+\[134\]
+
+(2013). Faster on easy items, more accurate on difficult ones -
+Cognitive ability and performance on a task of varying difficulty.pdf
+
+\[135\]
+
+(2015). Measuring Ability Speed or Both Challenges Psychometric
+Solutions and What Can Be Gained From Experimental Control.pdf
+
+\[136\]
+
+(2015). A Bivariate Generalized Linear Item Response Theory Modeling
+Framework to the Analysis of Responses and Response Times.pdf
+
+\[137\]
+
+(2013). Quantitative differences in retest effects across different
+methods used to construct alternate test forms.pdf
+
+\[138\]
+
+Open Science Collaboration. (2015). Estimating the reproducibility of
+psychological science. Science, 349(6251), aac4716.
+
+\[139\]
+
+(2005). Problems of measurement in soft systems.pdf
+
+\[140\]
+
+(2012). Measurement Fundamentals - A Pragmatic View.pdf
+
+\[141\]
+
+(2013). An application-oriented mathematical meta-model of
+measurement.pdf
+
+\[142\]
+
+(2014). Modeling measurement - error and uncertainty.pdf
+
+\[143\]
+
+(2015). A comparison of measurement concepts across physical science and
+social science domains - instrument design, calibration, and
+measurement.pdf
+
+\[144\]
+
+(2015). A structural framework across strongly and weakly defined
+measurements.pdf
+
+\[145\]
+
+(2015). A Structured Methodology for Measurement Development.pdf
+
+\[146\]
+
+(2015). On the input of a measurement process.pdf
 
 \[200\]
 
