@@ -1,0 +1,150 @@
+3PL noise 2
+N of persons;500
+N of items;20
+N of responses;10000
+Proportion of correct responses;0,5759
+PSIS-LOO (1PL model);-6409,83072391252
+PSIS-LOO SE (1PL model);37,3573634725966
+PSIS-LOO (2PL model);-6356,65816837462
+PSIS-LOO SE (2PL model);32,7383700250384
+PSIS-LOO (3PL model);-6352,29635491577
+PSIS-LOO SE (3PL model);32,8021790604927
+Mean of ability discrepancies (1PL model);0,487348764541988
+SD of ability discrepancies (1PL model);0,385896214646093
+Median of ability discrepancies (1PL model);0,403718466679505
+MAD of ability discrepancies (1PL model);0,380750283174566
+Number of abilities outside 95 % posterior interval (1PL model);81
+Mean of ability discrepancies (2PL model);0,486505547319245
+SD of ability discrepancies (2PL model);0,376852178467664
+Median of ability discrepancies (2PL model);0,385742709380757
+MAD of ability discrepancies (2PL model);0,354600553266758
+Number of abilities outside 95 % posterior interval (2PL model);31
+Mean of ability discrepancies (3PL model);0,488292614564401
+SD of ability discrepancies (3PL model);0,375653453564676
+Median of ability discrepancies (3PL model);0,382281638410843
+MAD of ability discrepancies (3PL model);0,364666184966519
+Number of abilities outside 95 % posterior interval (3PL model);31
+Mean of difficulty discrepancies (1PL model);0,581218246587944
+SD of difficulty discrepancies (1PL model);0,323973517679964
+Median of difficulty discrepancies (1PL model);0,543099770597097
+MAD of difficulty discrepancies (1PL model);0,214917725607689
+Number of difficulties outside 95 % posterior interval (1PL model);18
+Mean of difficulty discrepancies (2PL model);0,77448592615415
+SD of difficulty discrepancies (2PL model);0,312724642160168
+Median of difficulty discrepancies (2PL model);0,798723395593732
+MAD of difficulty discrepancies (2PL model);0,2963032970389
+Number of difficulties outside 95 % posterior interval (2PL model);18
+Mean of difficulty discrepancies (3PL model);0,330937512075944
+SD of difficulty discrepancies (3PL model);0,26467276692577
+Median of difficulty discrepancies (3PL model);0,268245149197477
+MAD of difficulty discrepancies (3PL model);0,198906176422411
+Number of difficulties outside 95 % posterior interval (3PL model);2
+Mean of discrimination discrepancies (1PL model);0,457662821607664
+SD of discrimination discrepancies (1PL model);0,28449188086487
+Median of discrimination discrepancies (1PL model);0,413271143333986
+MAD of discrimination discrepancies (1PL model);0,406953714606247
+Number of discriminations outside 95 % posterior interval (1PL model);20
+Mean of discrimination discrepancies (2PL model);0,650096810896493
+SD of discrimination discrepancies (2PL model);0,33814191911432
+Median of discrimination discrepancies (2PL model);0,630991477061189
+MAD of discrimination discrepancies (2PL model);0,391311862330486
+Number of discriminations outside 95 % posterior interval (2PL model);17
+Mean of discrimination discrepancies (3PL model);0,463282950026722
+SD of discrimination discrepancies (3PL model);0,312969452355864
+Median of discrimination discrepancies (3PL model);0,43740906650083
+MAD of discrimination discrepancies (3PL model);0,376418724541589
+Number of discriminations outside 95 % posterior interval (3PL model);4
+Mean of guessing discrepancies (1PL model);0,197549289673334
+SD of guessing discrepancies (1PL model);0,0248078479704457
+Median of guessing discrepancies (1PL model);0,199857451079879
+MAD of guessing discrepancies (1PL model);0,0322828284668061
+Number of guessings outside 95 % posterior interval (1PL model);20
+Mean of guessing discrepancies (2PL model);0,197549289673334
+SD of guessing discrepancies (2PL model);0,0248078479704457
+Median of guessing discrepancies (2PL model);0,199857451079879
+MAD of guessing discrepancies (2PL model);0,0322828284668061
+Number of guessings outside 95 % posterior interval (2PL model);20
+Mean of guessing discrepancies (3PL model);0,0728024500832358
+SD of guessing discrepancies (3PL model);0,0497720323418821
+Median of guessing discrepancies (3PL model);0,0613146973855952
+MAD of guessing discrepancies (3PL model);0,0397891813994597
+Number of guessings outside 95 % posterior interval (3PL model);0
+Mean of response probability discrepancies (1PL model);0,198090015782725
+SD of response probability discrepancies (1PL model);0,130961088008529
+Median of response probability discrepancies (1PL model);0,179088357726837
+MAD of response probability discrepancies (1PL model);0,13800775068324
+Number of response probabilities outside 95 % posterior interval (1PL model);5301
+Mean of response probability discrepancies (2PL model);0,197957820809043
+SD of response probability discrepancies (2PL model);0,124133338776924
+Median of response probability discrepancies (2PL model);0,184254957642904
+MAD of response probability discrepancies (2PL model);0,13651319191309
+Number of response probabilities outside 95 % posterior interval (2PL model);5811
+Mean of response probability discrepancies (3PL model);0,197638882948683
+SD of response probability discrepancies (3PL model);0,123956193996417
+Median of response probability discrepancies (3PL model);0,183007917609388
+MAD of response probability discrepancies (3PL model);0,135426434368906
+Number of response probabilities outside 95 % posterior interval (3PL model);5774
+Mean of W person fit statistics (1PL model);1,05240295088338
+SD of W person fit statistics (1PL model);0,124663256880556
+Median of W person fit statistics (1PL model);1,05718746860313
+MAD of W person fit statistics (1PL model);0,115326506164583
+Number of Ws outside 95 % posterior predictive interval (1PL model);16
+Mean of W person fit statistics (2PL model);1,00435584739403
+SD of W person fit statistics (2PL model);0,137048569947776
+Median of W person fit statistics (2PL model);1,00879377733799
+MAD of W person fit statistics (2PL model);0,120497691339183
+Number of Ws outside 95 % posterior predictive interval (2PL model);14
+Mean of W person fit statistics (3PL model);1,00557920565438
+SD of W person fit statistics (3PL model);0,134342664270776
+Median of W person fit statistics (3PL model);1,00949273879731
+MAD of W person fit statistics (3PL model);0,124950997760778
+Number of Ws outside 95 % posterior predictive interval (3PL model);14
+Total number of person scores;18
+Number of person scores outside 95 % posterior predictive interval (1PL model);8
+Person scores distribution fit statistic (1PL model);52,3443026880203
+Person scores distribution fit statistic PPP-value (1PL model);0
+Number of person scores outside 95 % posterior predictive interval (2PL model);4
+Person scores distribution fit statistic (2PL model);32,2108430280276
+Person scores distribution fit statistic PPP-value (2PL model);0,0706666666666667
+Number of person scores outside 95 % posterior predictive interval (3PL model);5
+Person scores distribution fit statistic (3PL model);33,6809675667583
+Person scores distribution fit statistic PPP-value (3PL model);0,0533333333333333
+Total number of ratios;190
+Mean of pairwise item odds ratios (1PL model);1,38683393173792
+SD of pairwise item odds ratios (1PL model);0,348213703880612
+Median of pairwise item odds ratios (1PL model);1,34229567425056
+MAD of pairwise item odds ratios (1PL model);0,292933233325272
+Number of ratios outside 95 % posterior predictive interval (1PL model);38
+Mean of pairwise item odds ratios (2PL model);1,38683393173792
+SD of pairwise item odds ratios (2PL model);0,348213703880612
+Median of pairwise item odds ratios (2PL model);1,34229567425056
+MAD of pairwise item odds ratios (2PL model);0,292933233325272
+Number of ratios outside 95 % posterior predictive interval (2PL model);12
+Mean of pairwise item odds ratios (3PL model);1,38683393173792
+SD of pairwise item odds ratios (3PL model);0,348213703880612
+Median of pairwise item odds ratios (3PL model);1,34229567425056
+MAD of pairwise item odds ratios (3PL model);0,292933233325272
+Number of ratios outside 95 % posterior predictive interval (3PL model);12
+Mean of person biserial correlations (1PL model);0,235289418971069
+SD of person biserial correlations (1PL model);0,214052379948258
+Median of person biserial correlations (1PL model);0,230902274482586
+MAD of person biserial correlations (1PL model);0,203926615544911
+Number of correlations outside 95 % posterior predictive interval (1PL model);23
+Mean of person biserial correlations (2PL model);0,235289418971069
+SD of person biserial correlations (2PL model);0,214052379948258
+Median of person biserial correlations (2PL model);0,230902274482586
+MAD of person biserial correlations (2PL model);0,203926615544911
+Number of correlations outside 95 % posterior predictive interval (2PL model);22
+Mean of person biserial correlations (3PL model);0,235289418971069
+SD of person biserial correlations (3PL model);0,214052379948258
+Median of person biserial correlations (3PL model);0,230902274482586
+MAD of person biserial correlations (3PL model);0,203926615544911
+Number of correlations outside 95 % posterior predictive interval (3PL model);24
+Mean of failed axiom checks (Single cancellation);0,105161075087274
+Weighted mean of failed axiom checks (Single cancellation);0,082802421895026
+Number of matrices checked (Single cancellation);200
+Total number of matrices (Single cancellation);930240
+Mean of failed axiom checks (Single & double cancellation);0,119374276517134
+Weighted mean of failed axiom checks (Single & double cancellation);0,10081742991147
+Number of matrices checked (Single & double cancellation);200
+Total number of matrices (Single & double cancellation);930240

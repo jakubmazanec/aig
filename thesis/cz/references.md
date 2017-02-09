@@ -965,3 +965,21 @@ Wainer, H. (2002). On the automatic generation of test items: Some
 whens, whys and hows. In S. H. Irvine, & P. C. Kyllonen (Eds.), *Item
 generation for test development* (pp. 287–316). New Jersey: Lawrence
 Erlbaum Associates.
+
+\[221\]
+
+Kovacs, K., & Conway, A. R. (2016). Process overlap theory: A unified
+account of the general factor of intelligence. Psychological Inquiry,
+27(3), 151-177.
+
+\[222\]
+
+Vehtari, A., Gelman, A., & Gabry, J. (2016). Practical Bayesian model
+evaluation using leave-one-out cross-validation and WAIC. Statistics and
+Computing, 1-20.
+
+\[223\]
+
+Karabatsos, G. (2003). Comparing the aberrant response detection
+performance of thirty-six person-fit statistics. Applied Measurement in
+Education, 16(4), 277-298.

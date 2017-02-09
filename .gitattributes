@@ -1,34 +1,37 @@
-#common settings that generally should always be used with your language specific settings
+# LF normalization
 
-# Auto detect text files and perform LF normalization
-# http://davidlaing.com/2012/09/19/customise-your-gitattributes-to-become-a-git-ninja/
-* text=auto
+## Disable for all files
+* -text
 
-#
-# The above will handle all files NOT found below
-#
 
-# Documents
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
+## Allow for certain file types
+
+*.js text=input eol=lf
+
+
+# Specific file types
+
+## Custom for Visual Studio
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+## Standard to msysgit
+*.doc  diff=astextplain
+*.DOC  diff=astextplain
 *.docx diff=astextplain
 *.DOCX diff=astextplain
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
-*.md text
-*.adoc text
-*.textile text
-*.mustache text
-*.csv text
-*.tab text
-*.tsv text
-*.sql text
+*.PDF  diff=astextplain
+*.rtf  diff=astextplain
+*.RTF  diff=astextplain
 
-# Graphics
+## Graphics
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -36,5 +39,9 @@
 *.tif binary
 *.tiff binary
 *.ico binary
-*.svg text
 *.eps binary
+
+
+# Merge drivers
+
+public/dist/** merge=ours
